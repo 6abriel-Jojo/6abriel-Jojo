@@ -71,7 +71,6 @@ Me chamo Gabriel Lima, tenho 23 anos e sou nascido em Olinda PE. Sou formado em 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 
-/>
 <img 
     align="left" 
     alt="JQuery" 
@@ -98,7 +97,7 @@ Me chamo Gabriel Lima, tenho 23 anos e sou nascido em Olinda PE. Sou formado em 
 />
 
 <br/>
-
+<br/>
 
 ### 📊 Estatísticas
 
