@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gabriel Lima, tenho 23 anos e sou nascido em Olinda PE. Sou formado em Sistema de informação na Uninassau Olinda. Sou apaixonado por programação e aqui verão alguns projetos que desenvolvi ou estão em desenvolvimento.".
+Me chamo Gabriel Lima, tenho 23 anos e sou nascido em Olinda PE. Sou formado em Sistema de informação na Uninassau Olinda. Sou apaixonado por programação e aqui verão alguns projetos que desenvolvi ou estão em desenvolvimento.
 
 ### 🤖 Linguagens e Tecnologias
 
